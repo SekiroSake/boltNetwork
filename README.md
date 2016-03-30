@@ -1,10 +1,10 @@
 # boltNetwork
-## How to run
+### How to run
 * Download this branch to your local machine 
 * Go to this project's directory through terminal
 * run on python's simple server (like : python -m SimpleHTTPServer)
 
-### my localhost:8080 has been taken?
+### My localhost:8080 has been taken?
 
 sudo npm install http-server -g
 
