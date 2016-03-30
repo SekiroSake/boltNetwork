@@ -18,3 +18,6 @@ http:10.0.1.7:8081
 
 Then go to localhost:8081
 
+### Why need server?
+We need to process ajax in this project
+
